@@ -3,7 +3,8 @@
     "type": "magento-module",
     "license": "Open-Software-License-(OSL)",
     "homepage": "",
-    "description": "This is a Payment Gateway integration for Boku (Pay by mobile).",
+    "description": "This is a Payment Gateway integration for Boku (Pay by mobile).
+The Boku system takes payment from a mobile phone rather than a credit or debit card.",
     "authors": [
     {
         "name": "Mark Davidson-Houston",

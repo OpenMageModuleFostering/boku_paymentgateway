@@ -210,7 +210,7 @@ NOT IMPLEMENTED
 						</url_callback>
 						<callback_ips translate="label" module="boku">
 							<label>Callback IPs</label>
-							<comment><![CDATA[For additional security you can specify a semi-colon delimited list of IP addresses allowed for callbacks. If blank then there are no restrictions.]]></comment>
+							<comment><![CDATA[For additional security you can specify a semi-colon delimited list of IP addresses allowed for callbacks.<br>Boku's server IPs are <b>72.32.200.23</b> and <b>162.242.206.22</b>.<br>If blank then there are no restrictions.]]></comment>
 							<frontend_type>text</frontend_type>
 							<sort_order>203</sort_order>
 							<show_in_default>1</show_in_default>

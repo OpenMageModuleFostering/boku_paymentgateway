@@ -12,7 +12,7 @@
 <config>
 	<modules>
 		<Boku_Paymentgateway>
-			<version>0.0.4</version>
+			<version>0.0.5</version>
 		</Boku_Paymentgateway>
 	</modules>
 
@@ -66,13 +66,6 @@
 
 	<admin>
 		<routers>
-			<!--adminhtml>
-				<args>
-					<modules>
-						<Boku_Paymentgateway>Boku_Paymentgateway_Adminhtml</Boku_Paymentgateway>
-					</modules>
-				</args>
-			</adminhtml-->
 			<boku_admin>
 				<use>admin</use>
 				<args>
