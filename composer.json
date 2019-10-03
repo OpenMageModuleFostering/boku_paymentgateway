@@ -1,17 +1,5 @@
 {
-    "name": "OpenMageModuleFostering/Boku_Paymentgateway",
-    "type": "magento-module",
-    "license": "Open-Software-License-(OSL)",
-    "homepage": "",
-    "description": "This is a Payment Gateway integration for Boku (Pay by mobile).
-The Boku system takes payment from a mobile phone rather than a credit or debit card.",
-    "authors": [
-    {
-        "name": "Mark Davidson-Houston",
-        "email": "mdh@treatid.me.uk"
-    }
-],
-    "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+    "keywords": [
+        "openmage-module"
+    ]
 }
